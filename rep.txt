@@ -1,0 +1,77 @@
+commit 7a4131f2a875cb1fd015856764836988aab75a5d
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 15:49:29 2020 -0500
+
+    cambio de codigo
+
+commit 81bdd07c0ffe843b17cb3a5bfc9c3f9e55a76cfb
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 15:47:47 2020 -0500
+
+    cargue de archivos
+
+commit 2ccdb12dbc50cd07dde80753a6b36ff0275f1d6f
+Author: David Cruz <dfcc15@hotmail.com>
+Date:   Wed Feb 12 15:41:37 2020 -0500
+
+    Delete borreme.txt
+
+commit 945ab003c32f42d69f74bbeea2c9b01fe48e2e3b
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 14:11:42 2020 -0500
+
+    borreme
+
+commit 382823bca2e494ec55f32fe046e1120927510192
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 13:50:26 2020 -0500
+
+    libro
+
+commit 539200a9dcaf1a1405ef36e4dd985631f2d78355
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 13:43:29 2020 -0500
+
+    imagen
+
+commit 21c0c9ada8f88ab8517703a936103ba33b1ba30b
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 10:09:46 2020 -0500
+
+    ajuste2
+
+commit 2b23cd6a6d9a86fdd0e9707297444611c248d9fd
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Wed Feb 12 10:04:48 2020 -0500
+
+    ajuste
+
+commit 22891fc61e4fd1b005a9ff3a321fbb67810f473e
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Tue Feb 11 16:57:41 2020 -0500
+
+    log
+
+commit fbf85c925d0b2cc30f5078630674fceca2cb30f0
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Tue Feb 11 16:15:46 2020 -0500
+
+    etiqueta h4
+
+commit bbf453d492dcfc3c0bff8d01bdeaeb9b2b6ad53e
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Tue Feb 11 15:32:04 2020 -0500
+
+    cambio
+
+commit b32823888e0bcf91838e51da6ce4e3ec88f79199
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Tue Feb 11 15:23:33 2020 -0500
+
+    imagen
+
+commit 267d65df36471c4c65ae23f0a98fe9cf1cb4c848
+Author: dfc201692 <dfcc15@hotmail.com>
+Date:   Tue Feb 11 14:53:21 2020 -0500
+
+    html
